@@ -19,7 +19,8 @@ Training the Model
 The model is trained on the training set with 10 epochs and a batch size of 32. Validation data is used to monitor the model's performance during training.
 
 Evaluating the Model
-The trained model is evaluated on the test set, and accuracy along with the confusion matrix is printed.a variety of Python libraries for different tasks. Here's a breakdown of the libraries used and their purposes:
+The trained model is evaluated on the test set, and accuracy along with the confusion matrix is printed.
+A variety of Python libraries for different tasks. Here's a breakdown of the libraries used and their purposes:
 
 Installed via pip install yacs.
 Likely used for configuration management.
