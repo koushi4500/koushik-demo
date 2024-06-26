@@ -73,6 +73,9 @@ Train the model: Train the model on the training set, monitoring its performance
 
 Evaluate the model: Evaluate the trained model on the test set and print the accuracy and confusion matrix.
 ## Screenshots/Running Tests
+![WhatsApp Image 2024-06-20 at 21 32 15_b4f09e6c](https://github.com/koushi4500/koushik-demo/assets/161230937/689a573d-b6ad-49a1-aaf2-95ab95a8bc80)
+
+![WhatsApp Image 2024-06-20 at 21 32 53_50eb7d43](https://github.com/koushi4500/koushik-demo/assets/161230937/92147119-1870-45f0-a33c-0668b976ba76)
 
 
 
